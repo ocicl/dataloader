@@ -1,0 +1,10 @@
+* dataloader
+
+A universal file loader for various images/audio data formats in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/dataloader.git   |
+| commit  | ad58bd6  |
+| systems | dataloader |
+|---------+-------------------------------------------|
+
